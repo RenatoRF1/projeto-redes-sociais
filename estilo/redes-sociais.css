@@ -36,10 +36,8 @@ section#telefone {
     width: 311px;
     background:url(../pacote-d013/imagens/frame-iphone.png) no-repeat;
     background-size: cover;
-    
 
 }
-
 
 iframe#tela {
     position: relative;
@@ -61,8 +59,6 @@ section#redes-sociais img {
     border-radius: 50%;
     box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.400);
     box-sizing: border-box;
-    
-    
 
 }
 
@@ -72,6 +68,3 @@ section#redes-sociais img:hover {
     box-shadow: 11px 5px 18px black;
     transition: transform 0.50s, box-shadow 0.50s;
 }
-
-
-
